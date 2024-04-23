@@ -3,6 +3,17 @@
 ![YOLO-OpenCV-Python](result.png)
 
 ## Setup
+1. Setup python version
+```bash
+pyenv install 3.9
+pyenv local 3.9
+```
+2. Setup virtual environment
+```bash
+python3 -m venv .venv
+```
+
+
 1. Download and Install Python 3: [**Windows:** [Python](https://www.python.org/downloads) OR [Anaconda](https://www.anaconda.com/download)] [**Ubuntu:** Already Installed]
 2. Install Required Dependencies:
    ```bash

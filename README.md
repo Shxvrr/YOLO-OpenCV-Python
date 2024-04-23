@@ -1,6 +1,5 @@
 # YOLO Object Detection with OpenCV in Python
 
-![YOLO-OpenCV-Python](result.png)
 
 ## Setup
 1. Setup python version
